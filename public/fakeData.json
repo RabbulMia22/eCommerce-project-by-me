@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "title": "Men's Cotton T-Shirt",
+    "description": "Soft and breathable cotton t-shirt, perfect for everyday wear.",
+    "price": 19.99,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/PZWnb8Dw/Men-s-Cotton-T-Shirt.jpg",
+    "rating": 4.2
+  },
+  {
+    "id": 2,
+    "title": "Men's Casual Slim Fit Shirt",
+    "description": "Stylish slim-fit shirt with button-down collar.",
+    "price": 24.99,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/WWX4LQ0D/Men-s-Casual-Slim-Fit-Shirt.webp",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Men's Denim Jeans",
+    "description": "Classic straight-leg denim jeans with a modern fit.",
+    "price": 39.99,
+    "category": "Men's Clothing",
+  "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/pvGDBm85/jeans-lede.png",
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "title": "Women's Floral Summer Dress",
+    "description": "Lightweight and flowy floral print dress, perfect for summer.",
+    "price": 29.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/MkSZV8Sy/81j17q-Zn-Qr-L-AC-UY1000.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "title": "Women's High Waist Jeans",
+    "description": "Comfortable and stylish high-waisted skinny jeans.",
+    "price": 34.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/QFXdgYnc/1.jpg",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "title": "Women's Winter Coat",
+    "description": "Warm and fashionable winter coat with faux fur lining.",
+    "price": 89.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/RGQtgpmd/beige-wrap-coat-with-waist-belt.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "title": "Men's Sports Jacket",
+    "description": "Lightweight jacket perfect for outdoor workouts and runs.",
+    "price": 49.99,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/m5gLMS3C/Go2-FR004-edb877809e6d42cd815d8b599c97abe0.jpg",
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "title": "Women's Casual Top",
+    "description": "Trendy casual top that goes great with jeans or skirts.",
+    "price": 22.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.ibb.co.com/tMvPKbwV/3fx-DJj-Mn7-Q1uly5kv-AEIc-UOd-Vp-Lh-Zfym9x-Yyptv1.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "title": "Men's Leather Jacket",
+    "description": "Premium leather jacket with a rugged yet stylish look.",
+    "price": 99.99,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i.pinimg.com/736x/52/90/28/5290288fc677dcc2c7098f0f030c5e65.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 10,
+    "title": "Men's Hoodie Sweatshirt",
+    "description": "Cozy hoodie for everyday comfort and style.",
+    "price": 35.99,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://i5.walmartimages.com/seo/Men-Multi-Colors-Hooded-Sweatshirt-Men-Hoodies-Color-Gold-4X-Large-Size_ef45d2ad-dcd3-4112-b48c-180eea84b3f1.c202e935f78836cb52542a10a8ca6856.jpeg",
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "title": "Men's Running Shorts",
+    "description": "Breathable and lightweight shorts ideal for running and training.",
+    "price": 18.50,
+    "category": "Men's Clothing",
+  "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/2164063708/photo/young-man-enjoys-refreshing-energy-drink-after-intense-running-session-in-urban-park-setting.jpg?s=2048x2048&w=is&k=20&c=Go6Bs_F3lOs2WXFdkZBVWwQU0Gbrh_hdEea9zOyKho4=",
+    "rating": 4.3
+  },
+  {
+    "id": 12,
+    "title": "Women's Maxi Dress",
+    "description": "Elegant full-length dress suitable for casual or semi-formal wear.",
+    "price": 44.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/2195666137/photo/stylish-mature-woman-with-short-hairstyle-walks-wearing-summer-beige-maxi-dress-and-large.webp?a=1&b=1&s=612x612&w=0&k=20&c=u8D69cD8jWtn8gIK7NMXSbW2wQxsFSQ3HINemA4Ko3A=",
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "title": "Women's Workout Leggings",
+    "description": "Stretchable, high-waisted leggings for fitness and yoga.",
+    "price": 27.99,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1362531464/photo/attractive-young-fit-woman-in-sportswear-stretching-isolated-on-orange-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=_fmh-I7UB5rBgdgeDm8o0eBQVfdZbXrak9BN0Wmd7ts=",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "title": "Women's Blazer Jacket",
+    "description": "Chic and tailored blazer, perfect for office or outings.",
+    "price": 59.99,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1317804584/photo/one-businesswoman-studio-portrait-looking-at-the-camera.webp?a=1&b=1&s=612x612&w=0&k=20&c=7tKXFWH-dyrgAtwRdT0-sIjd_bJNIvob55rpPVA6Zrs=",
+    "rating": 4.4
+  },
+  {
+    "id": 15,
+    "title": "Men's Formal Pants",
+    "description": "Slim fit formal trousers crafted with high-quality fabric.",
+    "price": 42.75,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1368534256/photo/full-length-profile-shot-of-a-man-in-suit-and-jeans-using-a-mobile-phone-and-walking.webp?a=1&b=1&s=612x612&w=0&k=20&c=o7WMG2UCU2J6B0jRdPgUmkkzSFXQpk-ihz0KzVNyv6Q=",
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "title": "Women's Knit Sweater",
+    "description": "Cozy knit sweater to keep you warm and stylish.",
+    "price": 38.99,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1249827471/photo/fashion-portrait-of-elegant-woman-in-brown-clothes-dark-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=JYzS1JkX-kdfynAMxnP0Xa42-aQYCufVeCQ3mcOUzkk=",
+    "rating": 4.6
+  },
+  {
+    "id": 17,
+    "title": "Men's Wool Sweater",
+    "description": "Warm wool sweater ideal for chilly evenings.",
+    "price": 45.00,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/2158176288/photo/man-wearing-beige-turtleneck-sweater-winter-fashion.webp?a=1&b=1&s=612x612&w=0&k=20&c=rsF3J3qXs0pmPEdW-3GGNl6Au5BHvkd_jrh3urtwf_U=",
+    "rating": 4.5
+  },
+  {
+    "id": 18,
+    "title": "Women's Casual Blouse",
+    "description": "Comfortable cotton blouse for daily wear.",
+    "price": 28.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/153829640/photo/radiating-confidence.webp?a=1&b=1&s=612x612&w=0&k=20&c=A23n7UQ4HMRZjlqcYQJdySTOYNY5o3ntbOth6ZS95I8=",
+    "rating": 4.3
+  },
+  {
+    "id": 19,
+    "title": "Men's Chino Pants",
+    "description": "Versatile chinos suitable for both formal and casual looks.",
+    "price": 37.50,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1385708004/photo/bearded-middle-aged-guy-in-casual-outfit-holding-hands-in-pockets.webp?a=1&b=1&s=612x612&w=0&k=20&c=JEZ8D5iF0BqDbzEKbaAEiNIXNGcipPJHE9SShcxcpKM=",
+    "rating": 4.2
+  },
+  {
+    "id": 20,
+    "title": "Women's Ripped Jeans",
+    "description": "Trendy ripped skinny jeans for a stylish vibe.",
+    "price": 32.50,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/610743306/photo/portrait-of-young-asian-woman-leaning-back-on-blank-wall.webp?a=1&b=1&s=612x612&w=0&k=20&c=YRxs-nzDBFC3PvIvr0b5nTwrMFhTeIVnZZoJqQSL_xQ=",
+    "rating": 4.4
+  },
+  {
+    "id": 21,
+    "title": "Men's Puffer Jacket",
+    "description": "Insulated puffer jacket to keep warm in winter.",
+    "price": 79.99,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1300962117/photo/young-handsome-guy-in-a-warm-knitted-clothes-against-a-background-of-black-wall.webp?a=1&b=1&s=612x612&w=0&k=20&c=_zlSfLrpAsFdF68r42lOqQF7nkqRe4nu0aNwYa6-GLk=",
+    "rating": 4.6
+  },
+  {
+    "id": 22,
+    "title": "Women's Tank Top",
+    "description": "Soft and breathable tank top for summer days.",
+    "price": 16.99,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1143010889/photo/just-a-shrug-of-the-shoulders.webp?a=1&b=1&s=612x612&w=0&k=20&c=O89bihPX9ebQuZZBlClgXYSchsndJDf_6E5mSAeOz7Y=",
+    "rating": 4.3
+  },
+  {
+    "id": 23,
+    "title": "Men's Henley Shirt",
+    "description": "Three-button Henley shirt with a relaxed fit.",
+    "price": 26.00,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/486896023/photo/portrait-of-young-handsome-guy.webp?a=1&b=1&s=612x612&w=0&k=20&c=NmMIejOyKUCHIqtNJc5FZ8m42URADkfGM-If4lXMd_4=",
+    "rating": 4.4
+  },
+  {
+    "id": 24,
+    "title": "Women's Long Sleeve Dress",
+    "description": "Chic and elegant dress with full sleeves and belt detail.",
+    "price": 49.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/2131326536/photo/serie-of-studio-photos-of-female-model-in-knitted-grey-set-autumn-winter-fashion-collection.webp?a=1&b=1&s=612x612&w=0&k=20&c=bJs1C2WCX1sGUmljR9wwk2Jv8IYCYM4vwplZ3-lfKxg=",
+    "rating": 4.5
+  },
+  {
+    "id": 25,
+    "title": "Men's Sleeveless Gym Tee",
+    "description": "Moisture-wicking sleeveless tee perfect for workouts.",
+    "price": 20.00,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://media.istockphoto.com/id/1293366080/photo/male-athlete-going-somewhere-bringing-the-dumbbells.webp?a=1&b=1&s=612x612&w=0&k=20&c=vKhgPtz2AJbvdxqX7qJ4O-EDE-agm_vVgb_KMapRW_Q=",
+    "rating": 4.2
+  },
+  {
+    "id": 26,
+    "title": "Women's Faux Leather Jacket",
+    "description": "Stylish faux leather jacket with zipper pockets.",
+    "price": 64.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/7870762/pexels-photo-7870762.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.6
+  },
+  {
+    "id": 27,
+    "title": "Men's Classic Blue Denim Jacket",
+    "description": "A timeless denim jacket that pairs perfectly with any casual outfit.",
+    "price": 54.99,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/28529512/pexels-photo-28529512/free-photo-of-stylish-woman-posing-in-denim-jacket-portrait.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.5
+  },
+  {
+    "id": 28,
+    "title": "Women's Boho Maxi Skirt",
+    "description": "A flowy bohemian-style skirt with floral prints and elastic waistband.",
+    "price": 33.99,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/26225277/pexels-photo-26225277/free-photo-of-a-young-woman-sitting-on-the-beach.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 4.6
+  },
+  {
+    "id": 29,
+    "title": "Men's Cotton Polo Shirt",
+    "description": "Comfortable and breathable polo shirt suitable for work or casual outings.",
+    "price": 27.49,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/9648924/pexels-photo-9648924.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 4.3
+  },
+  {
+    "id": 30,
+    "title": "Women's V-Neck Wrap Dress",
+    "description": "A flattering wrap dress with a V-neckline and soft fabric.",
+    "price": 42.00,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/18184291/pexels-photo-18184291/free-photo-of-young-woman-in-bridal-dress-posing-in-studio.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.7
+  },
+  {
+    "id": 31,
+    "title": "Men's Athletic Joggers",
+    "description": "Slim-fit jogger pants designed for mobility and everyday comfort.",
+    "price": 36.99,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/5319381/pexels-photo-5319381.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.4
+  },
+  {
+    "id": 32,
+    "title": "Women's Knitted Cardigan",
+    "description": "Lightweight knitted cardigan ideal for layering during chilly weather.",
+    "price": 38.50,
+    "category": "Women's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/5712104/pexels-photo-5712104.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.6
+  },
+  {
+    "id": 33,
+    "title": "Men's Classic Black Turtleneck Sweater",
+    "description": "A sleek black turtleneck sweater, perfect for layering or wearing alone.",
+    "price": 49.99,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/11805706/pexels-photo-11805706.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.7
+  },
+  {
+    "id": 34,
+    "title": "Women's High-Waisted Pleated Skirt",
+    "description": "Elegant pleated skirt with a high waistline and soft pleats for extra flow.",
+    "price": 35.99,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/11377335/pexels-photo-11377335.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.5
+  },
+  {
+    "id": 35,
+    "title": "Men's Slim Fit Casual Blazer",
+    "description": "Tailored slim fit blazer that works for both formal and casual looks.",
+    "price": 89.99,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/3799283/pexels-photo-3799283.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.6
+  },
+  {
+    "id": 36,
+    "title": "Women's Casual Sleeveless Top",
+    "description": "Breathable and casual sleeveless top, perfect for hot weather or layering.",
+    "price": 18.99,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/31571005/pexels-photo-31571005/free-photo-of-back-view-of-woman-in-colorful-bohemian-top.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.2
+  },
+  {
+    "id": 37,
+    "title": "Men's Vintage Bomber Jacket",
+    "description": "Retro-inspired bomber jacket with ribbed cuffs and collar.",
+    "price": 67.99,
+    "category": "Men's Clothing",
+   "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/31530180/pexels-photo-31530180/free-photo-of-urban-exploration-in-abandoned-industrial-ruin.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.8
+  },
+  {
+    "id": 38,
+    "title": "Women's Denim Overalls",
+    "description": "Trendy denim overalls with adjustable straps for comfort and style.",
+    "price": 45.00,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/10610413/pexels-photo-10610413.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.4
+  },
+  {
+    "id": 39,
+    "title": "Men's Fleece Pullover Hoodie",
+    "description": "Soft fleece-lined hoodie for warmth and comfort, perfect for casual wear.",
+    "price": 39.99,
+    "category": "Men's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/6311394/pexels-photo-6311394.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.5
+  },
+  {
+    "id": 40,
+    "title": "Women's Leather Crossbody Bag",
+    "description": "Elegant leather crossbody bag with a simple yet chic design.",
+    "price": 59.99,
+    "category": "Accessories",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/16690455/pexels-photo-16690455/free-photo-of-luxurious-leather-purse.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "rating": 4.6
+  },
+  {
+    "id": 41,
+    "title": "Men's Athletic Running Shoes",
+    "description": "Lightweight running shoes designed for comfort and performance.",
+    "price": 69.99,
+    "category": "Footwear",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/4853099/pexels-photo-4853099.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.7
+  },
+  {
+    "id": 42,
+    "title": "Women's Oversized Knit Sweater",
+    "description": "Cozy oversized sweater made from soft knit fabric for a relaxed look.",
+    "price": 49.99,
+    "category": "Women's Clothing",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "image": "https://images.pexels.com/photos/6968357/pexels-photo-6968357.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rating": 4.3
+  }
+]
